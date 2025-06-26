@@ -5,6 +5,17 @@
   <img src="https://komarev.com/ghpvc/?username=girishpawar1999&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Working on AI" />
+</p>
+
+<h3 align="center">"AI is not the future. It’s the present reinventing itself."</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+about+AI%20and%20Machine%20Learning;Lifelong+learner+and+builder;&center=true&width=500&height=45">
+</p>
+
+
 ---
 
 ### 🌐 Connect with me:
